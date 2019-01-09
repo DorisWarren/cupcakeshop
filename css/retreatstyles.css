@@ -1,0 +1,29 @@
+body {
+  background-image: url("../img/surfaceview.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  float: left;
+}
+h1{
+  color: seagreen;
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: monospace;
+  }
+p{
+  color: yellow;
+  font-family: monospace;
+  font-size: 20px;
+
+}
+img{
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  color: yellow;
+  font-size: 25px;
+  font-family: sans-serif;
+}

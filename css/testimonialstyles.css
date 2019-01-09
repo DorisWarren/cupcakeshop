@@ -1,0 +1,26 @@
+body {
+  background-image: url("../img/neb.jpeg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  float: left;
+}
+h1{
+  color: steelblue;
+  font-size: 50px;
+}
+h2{
+  color: olivedrab;
+}
+p{
+  color: #663399;
+}
+li{
+  color: silver;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+
+}

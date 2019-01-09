@@ -1,0 +1,27 @@
+body {
+  background-image: url("../img/pinksaturn.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  float: left;
+}
+h1{
+  color: purple;
+  font-size: 50px;
+  font-style: oblique;
+}
+h2{
+  color: #663399;
+}
+p{
+  color: #663399;
+}
+li{
+  color: #663399;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+
+}
